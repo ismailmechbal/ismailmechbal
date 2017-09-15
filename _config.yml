@@ -1,0 +1,22 @@
+title: Ismail Mechbal
+email: ismail@unik.ma
+description: This is the website of Ismail Mechbal, a Product Engineer based in Stockholm
+baseurl: ""
+url: "https://www.ismailmechbal.com"
+
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: /assets/styles
+  style: compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/*
+  - README.md

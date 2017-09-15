@@ -1,0 +1,20 @@
+$brand: #172A67;
+$cyan:  #4be8ea;
+
+.brand              	{ color: $brand; }
+
+.bg-brand           	{ background-color: $brand; }
+
+// Hover text color
+.hover-brand:hover,
+.hover-brand:focus 		{ color: $brand; }
+
+// Hover background
+.hover-bg-cyan:hover,
+.hover-bg-cyan:focus	{ background-color: $cyan; }
+.hover-bg-brand:hover,
+.hover-bg-brand:focus { background-color: $brand; }
+
+// Border Colors
+.b--brand    					{ border-color: $brand; }
+.b--cyan    					{ border-color: $cyan; }

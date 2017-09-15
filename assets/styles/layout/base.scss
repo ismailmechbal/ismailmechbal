@@ -1,0 +1,50 @@
+body {
+  background-color: #fff;
+  color: #787878;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  line-height: 1.4;
+  text-shadow: none;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+}
+
+input[type="email"].hero-email::-webkit-input-placeholder { color: white; }
+input[type="email"].hero-email::-moz-placeholder 					{ color: white; }
+input[type="email"].hero-email:-ms-input-placeholder 			{ color: white; }
+input[type="email"].hero-email:-moz-placeholder 					{ color: white; }
+
+.hero h1:after {
+  content:'';
+  border-bottom: 1px solid #fff;
+  display:inline-block;
+  width: 20%;
+  height: 100%;
+  margin-right: 40%;
+  margin-left: 40%;
+}
+.hiw span:before {
+  content:'';
+  border-top: 1px solid #fff;
+  display:inline-block;
+  width: 100%;
+  height: 100%;
+  margin-right: 0%;
+  margin-left: 0%;
+  margin-bottom: 3%;
+}
+.gradient-blue { 
+  background-image: linear-gradient(#192e79, #0d1943);
+}
+.input-email-header {
+  background: url("/assets/images/svg/icons/email-blue.svg") no-repeat scroll left 10px center;
+  padding-left:40px;
+}
+.input-email-hero {
+  background: url("/assets/images/svg/icons/email-gray.svg") no-repeat scroll left 10px center;
+  padding-left:40px;
+}
+.input-email-hero-sm {
+  background: url("/assets/images/svg/icons/email-blue.svg") no-repeat scroll left 10px center;
+  padding-left:40px;
+}
