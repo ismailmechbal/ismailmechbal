@@ -4,6 +4,10 @@ description: This is the website of Ismail Mechbal, a Product Engineer based in 
 baseurl: ""
 url: "https://www.ismailmechbal.com"
 
+collections:
+  posts:
+    permalink: /:title.html
+
 markdown: kramdown
 highlighter: rouge
 sass:
