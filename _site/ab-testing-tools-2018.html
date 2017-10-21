@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,minimum-scale=1">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>A/B Testing tools of 2018</title>
+  <link href="/favicon.ico" type="image/x-icon" rel="shortcut icon">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/tachyons/4.8.1/tachyons.min.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700" rel="stylesheet">
+  <style type="text/css">
+    html, body {
+      min-height: 100%;
+    }
+    body {
+    background: linear-gradient(to bottom, #99c7f6, #357eddd6);
+    font-family: 'Playfair Display', serif;
+    font-size: 1.8em;
+    height: 100%;
+    }
+    a {
+      color: #357eddd6;
+    }
+  </style>
+  <meta name="description" content="This is the website of Ismail Mechbal, a Product Engineer based in Stockholm">
+<meta property="og:title" content="Ismail Mechbal Cosmos">
+<meta property="og:site_name" content="Ismail Mechbal Cosmos">
+<meta property="og:image" content="https://ismailmechbal.com/assets/images/ismailmechbalcover.jpg">
+<meta property="og:description" content="This is the website of Ismail Mechbal, a Product Engineer based in Stockholm">
+<meta property="og:url" content="https://www.ismailmechbal.com">
+<meta property="og:image" content="https://www.ismailmechbal.com/assets/images/meta/ismailmechbal_1200x630.jpg">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@ismailmechbal">
+<meta name="twitter:title" content="Ismail Mechbal Cosmos">
+<meta name="twitter:description" content="This is the website of Ismail Mechbal, a Product Engineer based in Stockholm">
+<meta name="twitter:creator" content="@ismailmechbal">
+<meta name="twitter:url" content="https://www.ismailmechbal.com">
+<meta name="twitter:image" content="https://www.ismailmechbal.com/assets/images/meta/ismailmechbal_1200x630.jpg">
+<meta name="google-site-verification" content="">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106594021-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-106594021-1');
+</script>
+</head>
+  <body class=" pa4-l normal">
+    
+    <div class="bg-white h-100 midnight-blue pa3 ph0-l pv6-l">
+	<div class="center mw7">
+		<p>A/B Testing is a useful tool that can improve the numbers &amp; adoption of a product. It can be used to boost the landing page conversion rate and more importantly to improve the overall User Experience of the product by adding/removing features or simplifying the design.
+Jason Fried’s known for A/B Testing of Basecamp advises “to test radically different things. We don’t know what works. Destroy all assumptions. We need to find what works and keep iterating—keep learning.”</p>
+
+<p>Several <a href="https://conversion-rate-experts.com/split-testing-software/">A/B Testing tools</a> exists in the market, I believe the following two tools will distinguish themself in 2018.</p>
+<ul>
+  <li>
+    <ol>
+      <li>Google Optimize</li>
+    </ol>
+  </li>
+  <li>
+    <ol>
+      <li>Netlify</li>
+    </ol>
+  </li>
+</ul>
+
+<h2 id="google-optimize"><a href="https://www.google.com/analytics/optimize">Google Optimize</a></h2>
+<p>Google Optimize as described by <a href="https://twitter.com/seanmcquaide">Sean McQuaide</a> is “an A/B testing and personalization tool that uses Google Analytics data to power your CRO efforts. Obviously A/B testing is nothing new, neither is serving personalized content based on customer behavior. The true progress here is how Google Optimize pairs with Google Analytics, and how easily we can tie our experiments to KPIs in Google Analytics.” <a href="http://online-behavior.com/testing/google-optimize">Source</a></p>
+
+<h2 id="google-optimize-advantages">Google Optimize advantages</h2>
+<div class="highlighter-rouge"><pre class="highlight"><code>- Easy to setup 
+- Similar UI to other Google products
+- Advanced targeting &amp; reporting
+- Data synchronization between Google Optimize &amp; Google Analytics
+- Free
+</code></pre>
+</div>
+
+<h2 id="google-optimize-drawbacks">Google Optimize drawbacks</h2>
+<ul>
+  <li>Google Analytics audience targeting not available</li>
+  <li>Limited Multivariate testing (MVT)</li>
+  <li>Limited Concurrent Experiments</li>
+</ul>
+
+<p>However Google offers a premium feature, <a href="https://www.google.com/analytics/optimize/compare/">Google Optimize 360</a>,  if you need those features.</p>
+
+<h4 id="tutorials">Tutorials</h4>
+<div class="highlighter-rouge"><pre class="highlight"><code>- [https://support.google.com/360suite/optimize/answer/7012154](https://support.google.com/360suite/optimize/answer/7012154)
+- [https://conversionxl.com/blog/google-optimize/](https://conversionxl.com/blog/google-optimize/)
+</code></pre>
+</div>
+
+<h2 id="netlify"><a href="https://www.netlify.com">Netlify</a></h2>
+<p>If you’re running your Landing page on a <a href="https://www.staticgen.com/">static site generator framework</a>, if not then you might <a href="https://www.netlify.com/blog/2016/05/18/9-reasons-your-site-should-be-static/">consider it</a>, chances you’ve heard of Netlify, a tool that “has everything you need to make a high performance site or web-app. You just push your code” Tom Preston-Werner, Founder of GitHub &amp; Creator of Jekyll.</p>
+
+<h2 id="netlify-advantages">Netlify Advantages</h2>
+<div class="highlighter-rouge"><pre class="highlight"><code>- Easy to setup
+- Branch split testing
+- Track split testing information with Google Analytics or Segment
+- Free
+</code></pre>
+</div>
+
+<h2 id="netlify-disadvantages">Netlify Disadvantages</h2>
+<div class="highlighter-rouge"><pre class="highlight"><code>- Need a static site generator
+- Only for the techies
+- No reporting or targeting
+</code></pre>
+</div>
+
+<h4 id="tutorials-1">Tutorials</h4>
+<div class="highlighter-rouge"><pre class="highlight"><code>- [https://www.netlify.com/docs/split-testing/](https://www.netlify.com/docs/split-testing/)
+</code></pre>
+</div>
+
+<h3 id="best-practices">Best practices</h3>
+<div class="highlighter-rouge"><pre class="highlight"><code>- Test What Matters the Most, The Lean Analytics book introduce a notion of the “One Metrics That Matters” (OMTM) implement this approach to get focus on your A/B Test 
+- Test Over Time, Allocating a reasonable time is beneficial as it will provide better insights
+- [Psych’d](http://andrewchen.co/psychd-funnel-conversion), A user psychology framework for increasing funnel conversion
+</code></pre>
+</div>
+
+
+   </div>
+</div>
+    
+    
+    
+  </body>
+</html>

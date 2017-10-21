@@ -1,4 +1,76 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-16T01:06:28+02:00</updated><id>http://localhost:4000/</id><title type="html">Ismail Mechbal</title><subtitle>This is the website of Ismail Mechbal, a Product Engineer based in Stockholm</subtitle><entry><title type="html">The day I won the elections!</title><link href="http://localhost:4000/the-day-i-won-the-elections.html" rel="alternate" type="text/html" title="The day I won the elections!" /><published>2017-09-15T23:57:48+02:00</published><updated>2017-09-15T23:57:48+02:00</updated><id>http://localhost:4000/the-day-i-won-the-elections</id><content type="html" xml:base="http://localhost:4000/the-day-i-won-the-elections.html">&lt;p&gt;I wrote this article a while ago in my blog arena. I think it’ll be great to repost it here.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-10-21T14:56:54+02:00</updated><id>http://localhost:4000/</id><title type="html">Ismail Mechbal</title><subtitle>This is the website of Ismail Mechbal, a Product Engineer based in Stockholm</subtitle><entry><title type="html">A/B Testing tools of 2018</title><link href="http://localhost:4000/ab-testing-tools-2018.html" rel="alternate" type="text/html" title="A/B Testing tools of 2018" /><published>2017-09-15T23:57:48+02:00</published><updated>2017-09-15T23:57:48+02:00</updated><id>http://localhost:4000/ab-testing-tools-2018</id><content type="html" xml:base="http://localhost:4000/ab-testing-tools-2018.html">&lt;p&gt;A/B Testing is a useful tool that can improve the numbers &amp;amp; adoption of a product. It can be used to boost the landing page conversion rate and more importantly to improve the overall User Experience of the product by adding/removing features or simplifying the design.
+Jason Fried’s known for A/B Testing of Basecamp advises “to test radically different things. We don’t know what works. Destroy all assumptions. We need to find what works and keep iterating—keep learning.”&lt;/p&gt;
+
+&lt;p&gt;Several &lt;a href=&quot;https://conversion-rate-experts.com/split-testing-software/&quot;&gt;A/B Testing tools&lt;/a&gt; exists in the market, I believe the following two tools will distinguish themself in 2018.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Google Optimize&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Netlify&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;google-optimize&quot;&gt;&lt;a href=&quot;https://www.google.com/analytics/optimize&quot;&gt;Google Optimize&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Google Optimize as described by &lt;a href=&quot;https://twitter.com/seanmcquaide&quot;&gt;Sean McQuaide&lt;/a&gt; is “an A/B testing and personalization tool that uses Google Analytics data to power your CRO efforts. Obviously A/B testing is nothing new, neither is serving personalized content based on customer behavior. The true progress here is how Google Optimize pairs with Google Analytics, and how easily we can tie our experiments to KPIs in Google Analytics.” &lt;a href=&quot;http://online-behavior.com/testing/google-optimize&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;google-optimize-advantages&quot;&gt;Google Optimize advantages&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Easy to setup 
+- Similar UI to other Google products
+- Advanced targeting &amp;amp; reporting
+- Data synchronization between Google Optimize &amp;amp; Google Analytics
+- Free
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;google-optimize-drawbacks&quot;&gt;Google Optimize drawbacks&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Google Analytics audience targeting not available&lt;/li&gt;
+  &lt;li&gt;Limited Multivariate testing (MVT)&lt;/li&gt;
+  &lt;li&gt;Limited Concurrent Experiments&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;However Google offers a premium feature, &lt;a href=&quot;https://www.google.com/analytics/optimize/compare/&quot;&gt;Google Optimize 360&lt;/a&gt;,  if you need those features.&lt;/p&gt;
+
+&lt;h4 id=&quot;tutorials&quot;&gt;Tutorials&lt;/h4&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- [https://support.google.com/360suite/optimize/answer/7012154](https://support.google.com/360suite/optimize/answer/7012154)
+- [https://conversionxl.com/blog/google-optimize/](https://conversionxl.com/blog/google-optimize/)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;netlify&quot;&gt;&lt;a href=&quot;https://www.netlify.com&quot;&gt;Netlify&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;If you’re running your Landing page on a &lt;a href=&quot;https://www.staticgen.com/&quot;&gt;static site generator framework&lt;/a&gt;, if not then you might &lt;a href=&quot;https://www.netlify.com/blog/2016/05/18/9-reasons-your-site-should-be-static/&quot;&gt;consider it&lt;/a&gt;, chances you’ve heard of Netlify, a tool that “has everything you need to make a high performance site or web-app. You just push your code” Tom Preston-Werner, Founder of GitHub &amp;amp; Creator of Jekyll.&lt;/p&gt;
+
+&lt;h2 id=&quot;netlify-advantages&quot;&gt;Netlify Advantages&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Easy to setup
+- Branch split testing
+- Track split testing information with Google Analytics or Segment
+- Free
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;netlify-disadvantages&quot;&gt;Netlify Disadvantages&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Need a static site generator
+- Only for the techies
+- No reporting or targeting
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&quot;tutorials-1&quot;&gt;Tutorials&lt;/h4&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- [https://www.netlify.com/docs/split-testing/](https://www.netlify.com/docs/split-testing/)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;best-practices&quot;&gt;Best practices&lt;/h3&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Test What Matters the Most, The Lean Analytics book introduce a notion of the “One Metrics That Matters” (OMTM) implement this approach to get focus on your A/B Test 
+- Test Over Time, Allocating a reasonable time is beneficial as it will provide better insights
+- [Psych’d](http://andrewchen.co/psychd-funnel-conversion), A user psychology framework for increasing funnel conversion
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">A/B Testing is a useful tool that can improve the numbers &amp;amp; adoption of a product. It can be used to boost the landing page conversion rate and more importantly to improve the overall User Experience of the product by adding/removing features or simplifying the design. Jason Fried’s known for A/B Testing of Basecamp advises “to test radically different things. We don’t know what works. Destroy all assumptions. We need to find what works and keep iterating—keep learning.”</summary></entry><entry><title type="html">The day I won the elections!</title><link href="http://localhost:4000/the-day-i-won-the-elections.html" rel="alternate" type="text/html" title="The day I won the elections!" /><published>2017-09-15T23:57:48+02:00</published><updated>2017-09-15T23:57:48+02:00</updated><id>http://localhost:4000/the-day-i-won-the-elections</id><content type="html" xml:base="http://localhost:4000/the-day-i-won-the-elections.html">&lt;p&gt;I wrote this article a while ago in my blog arena. I think it’ll be great to repost it here.
 Please enjoy!&lt;/p&gt;
 
 &lt;hr /&gt;

@@ -22,5 +22,3 @@ I'll fight to make your retirement pension vanish the day you go collect it.
 When that day comes, I'll laugh the shit out of you and everyone who elected me as Mr president.
 
 [Source from sboura.com]: https://www.sboura.com/the-day-i-won-the-elections/
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
