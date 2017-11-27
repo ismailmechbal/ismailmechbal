@@ -1,50 +1,19 @@
-body {
-  background-color: #fff;
-  color: #787878;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 14px;
-  line-height: 1.4;
-  text-shadow: none;
-  -webkit-font-smoothing: antialiased;
-  -webkit-tap-highlight-color: transparent;
+html, body { min-height: 100%; }
+body { font-family: 'Inconsolata', Courier; font-size: 1em; }
+a { color: #000; text-decoration: none; }
+.f3 { font-size: 0.8em; }
+.pa0 { padding: 0; }
+.pb3 { padding-bottom: 30px; }
+.ph3 { padding-left: 20px; padding-right: 20px; }
+.dib { display: inline-block; }
+.container { margin: 0 auto; width: 700px; }
+@media screen and (max-width: 700px) {
+  .container { padding: 20px; width: 100%; }
 }
-
-input[type="email"].hero-email::-webkit-input-placeholder { color: white; }
-input[type="email"].hero-email::-moz-placeholder 					{ color: white; }
-input[type="email"].hero-email:-ms-input-placeholder 			{ color: white; }
-input[type="email"].hero-email:-moz-placeholder 					{ color: white; }
-
-.hero h1:after {
-  content:'';
-  border-bottom: 1px solid #fff;
-  display:inline-block;
-  width: 20%;
-  height: 100%;
-  margin-right: 40%;
-  margin-left: 40%;
+.quote {
+  font-size: 0.8em;
+  text-align: center;
 }
-.hiw span:before {
-  content:'';
-  border-top: 1px solid #fff;
-  display:inline-block;
-  width: 100%;
-  height: 100%;
-  margin-right: 0%;
-  margin-left: 0%;
-  margin-bottom: 3%;
-}
-.gradient-blue { 
-  background-image: linear-gradient(#192e79, #0d1943);
-}
-.input-email-header {
-  background: url("/assets/images/svg/icons/email-blue.svg") no-repeat scroll left 10px center;
-  padding-left:40px;
-}
-.input-email-hero {
-  background: url("/assets/images/svg/icons/email-gray.svg") no-repeat scroll left 10px center;
-  padding-left:40px;
-}
-.input-email-hero-sm {
-  background: url("/assets/images/svg/icons/email-blue.svg") no-repeat scroll left 10px center;
-  padding-left:40px;
+.quote span {
+  font-style: italic;
 }

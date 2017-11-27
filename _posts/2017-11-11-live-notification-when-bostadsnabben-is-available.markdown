@@ -2,6 +2,7 @@
 layout: page
 title:  "Live notification when Bostadsnabben is available"
 date:   2017-11-11 08:57:48 +0200
+type: post
 ---
 
 Sweden housing crisis is becoming an international discussion, BBC wrote an interesting article [The city with 20-year waiting lists for rental homes](http://www.bbc.com/capital/story/20160517-this-is-one-city-where-youll-never-find-a-home).

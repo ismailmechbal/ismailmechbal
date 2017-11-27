@@ -1,0 +1,14 @@
+---
+layout: page
+title: Ismail Mechbal - Product Engineer
+---
+{% for post in paginator.posts %}
+  <ul class="{{ post.type }} posts">
+    <li>
+      <h2 class="f2">
+        <a href="{{ post.url }}" class="link">{{ post.title }}</a>
+        {% if post.quote_author %}<em>{{ post.quote_author }}</em>{% endif %}
+      </h2>
+    </li>
+  </ul>
+{% endfor %}

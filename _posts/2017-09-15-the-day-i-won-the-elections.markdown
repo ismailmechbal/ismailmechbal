@@ -2,6 +2,7 @@
 layout: page
 title:  "The day I won the elections!"
 date:   2017-09-15 23:57:48 +0200
+type: post
 ---
 I wrote this article a while ago in my blog arena. I think it'll be great to repost it here.
 Please enjoy!
