@@ -1,8 +1,11 @@
 ---
-layout: page
+layout: book
 title:  "The Book of Five Rings by Musashi Miyamoto"
 date:   2017-11-27 11:57:48 +0200
 type: book
+amazon: http://amzn.to/2BsJFvN
+description: The Book of Five Rings is one of the most insightful texts on the subtle arts of confrontation and victory to emerge from Asian culture
+image: https://images-na.ssl-images-amazon.com/images/I/51gCzgn1HrL._SX308_BO1,204,203,200_.jpg
 ---
 
 Strategy is the craft of the warrior.

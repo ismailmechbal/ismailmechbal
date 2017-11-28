@@ -1,13 +1,14 @@
 ---
-layout: page
+layout: post
 title:  "How to say No"
 date:   2017-11-27 11:57:48 +0200
 type: post
+description: Use this rule if you’re often over-committed or too scattered
+image: https://sivers.org/images/nopink.jpg
 ---
-Inspiration from the new book of Tim Ferris "Tribe of Mentors" on how to write an email saying No.
+A great email to politely say NO to an opportunity that has been offered to you, inspired from the Tim Ferris's new book [Tribe of Mentors](http://amzn.to/2iZnTrN)
 
-https://tim.blog/2017/11/25/how-to-say-no/
-
+<hr>
 Hi xxx
 
 I hope my email reaches you and your beloved one well.

@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: post
 title:  "A/B Testing tools of 2018"
 date:   2017-09-15 23:57:48 +0200
 type: post
+description: A short description of two A/B tools that will distinguish themselves in 2018
+image: https://upload.wikimedia.org/wikipedia/commons/2/2e/A-B_testing_example.png
 ---
 
 A/B Testing is a useful tool that can improve the numbers & adoption of a product. It can be used to boost the landing page conversion rate and more importantly to improve the overall User Experience of the product by adding/removing features or simplifying the design.
