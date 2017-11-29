@@ -8,7 +8,7 @@ image: https://pbs.twimg.com/media/DBp1ZTDXUAATKJ2.jpg
 ---
 Being a leader is taking total responsibility for failure, specially in the most difficult situations, it takes a lot of humility and courage.
 
-Tim Ferriss asked Jocko Willing the following question "How has a failure, or apparent failure, set you up for later success? Do you have a “favorite failure” of yours?"
+Tim Ferriss asked Jocko Willink the following question "How has a failure, or apparent failure, set you up for later success? Do you have a “favorite failure” of yours?"
 
 Jocko answered:
 
