@@ -1,0 +1,11 @@
+<footer>
+  <ul class="f6 pa0">
+    {% for socialmedia in site.data.socialmedia %}
+      <li class="dib pv2">
+        <a href="{{ socialmedia.url }}" title="{{ socialmedia.name }}">
+          {{ socialmedia.name }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</footer>
