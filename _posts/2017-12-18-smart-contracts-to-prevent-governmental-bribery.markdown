@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "smart-contracts-to-prevent-governmental-bribery"
+title:  "Smart contracts to prevent governmental bribery"
 date:   2017-12-18 07:57:48 +0200
 type: post
 description: Smart contracts can be used deliberately to prevent fraud & bribery on governmental levels
