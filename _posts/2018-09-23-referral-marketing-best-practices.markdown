@@ -181,3 +181,7 @@ Find a referral software partner or hire a development team.
 Q- Is Referral marketing the same as Influencer marketing?
 
 A- It’s not exactly the same, some influencer might take advantage of your referral program
+
+This article is a summary of David Folwell presentation
+
+<a href="https://seomoz.wistia.com/medias/f785ikosd1">Watch the presentation</a>
