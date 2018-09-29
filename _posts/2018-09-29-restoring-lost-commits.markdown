@@ -4,7 +4,7 @@ title: Restoring lost commits
 date:  2018-09-23 06:57:48 +0200
 type: post
 description: What to do losing your commits after git reset --hard HEAD^
-image: https://www.ismailmechbal.com/images/blog/2018/09/git-reset-hard.jpeg
+image: https://www.ismailmechbal.com/assets/images/blog/2018/09/git-reset-hard.jpeg
 ---
 
 You just did `git reset --hard HEAD^` and all your last commit went to trash.
