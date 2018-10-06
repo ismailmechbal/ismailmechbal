@@ -1,0 +1,11 @@
+---
+layout: post
+title: Avoiding bikeshed
+date:  2018-10-06 06:57:48 +0200
+type: post
+description: Opinions are cheap and everyone who can speak has them. Insights on difficult and complex matters takes real work.
+image: https://www.ismailmechbal.com/assets/images/blog/2018/10/bikeshed-comic.gif
+---
+Opinions are cheap and everyone who can speak has them. Insights on difficult and complex matters takes real work.
+
+<img src="https://www.ismailmechbal.com/assets/images/blog/2018/10/bikeshed-comic.gif">
